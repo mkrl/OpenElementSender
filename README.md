@@ -23,6 +23,8 @@ Installation
 Other notes
 -----------
 
+If you want some text to be displayed above the download button, specify "data-name" attribute for desired tables. This will display additional heading for each table hidden.
+
 This script grabs page URL and gets a table index and then sends it via HTTP-request to the Java servelet that shows the element.
 This can be used for any elements, just throw it other parameter and a desired DOM element index.
 
