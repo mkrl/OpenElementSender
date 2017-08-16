@@ -17,6 +17,7 @@ Installation
 3. Include `element_sender.js` in templates you want to de-tableise:
 
  `<script src="<cms:link>/js/element_sender.js</cms:link>" type="text/javascript"></script>`
+
 4. If required, add custom css rules to `viewer.jsp` for a more pleasant look
 
 
